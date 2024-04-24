@@ -1,0 +1,2 @@
+First i installed the DVC in the laptop using
+pip install dvc
